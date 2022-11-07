@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Important
+
+Swiper React is available only via NPM as a part of the main Swiper library:  npm i swiper
+
 ## Available Scripts
 
 In the project directory, you can run:
